@@ -2,7 +2,7 @@
   "name": "context-api-cart",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jitencodes.github.io/portfolio",
+  "homepage": "https://jitencodes.github.io/Shopting-Cart---Context-API/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.2",
     "@testing-library/jest-dom": "^5.16.5",
@@ -14,7 +14,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "react-scripts start",    
+    "start": "react-scripts start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "build": "react-scripts build",
@@ -41,6 +41,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.13",
+    "gh-pages": "^5.0.0",
     "postcss": "^8.4.19",
     "react-icons": "^4.6.0",
     "react-router-dom": "^6.4.3",
